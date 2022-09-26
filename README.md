@@ -34,6 +34,7 @@ f.close()
 
 ### OUTPUT:
 ![output](/COUNT.png)
+![output](/vlr.txt.png)
 
 
 
